@@ -1,8 +1,9 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Tools used in the project
+* React Js and Pure Css Data management using Context React js
+* The features it has using Cookies
+*Create an accounthttps://github.com/HodaNabeil/dashborad-admain/blob/master/README.md
+*Login
+*Create a new product
+*Modification of product data
+*Delete a product
+*Show products on a page
